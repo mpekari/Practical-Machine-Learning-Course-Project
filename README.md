@@ -1,7 +1,4 @@
----
-title: "Practical Machine Learning Course Project"
-output: html_document
----
++# Practical Machine Learning Course Project
 
 
 ## Overview
